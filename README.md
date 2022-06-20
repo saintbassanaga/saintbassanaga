@@ -23,30 +23,30 @@ I love the entire process of developing creative websites. I love the challenge 
 - Mobile + Desktop Amazon Clone (Working on it soon...)
 - My next blog & Portfolio
 - My C++ skill
-- My Javascript skill
+- My Visual C++ skill
 
 ## 🌱 I'm currently learning
 
 - 📱 C/C++ , Python and other programming language
 - Java
-- Sass (Sass is a preprocessor scripting language that is interpreted or compiled into Cascading Style Sheets. SassScript is the scripting language itself.)
-- Node js 
+- Python
+- Github
 
 
 ## 💼 Technical Skills
 
 ![](https://img.shields.io/badge/Code-CPP-informational?style=flat&logo=CPP&color=E34F26)
-![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
-![](https://img.shields.io/badge/Style-styled--components-informational?style=flat&logo=styled-components&color=DB7093)
-![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
-![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=JavaScript&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Flask-informational?style=flat&logo=Flask&color=1572B6)
+![](https://img.shields.io/badge/Code-Java--components-informational?style=flat&logo=styled-components&color=DB7093)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=Pyhton&color=7952B3)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=F7DF1E)
 
 </br>
 
-![](https://img.shields.io/badge/Tools-Figma-informational?style=flat&logo=Figma&color=F24E1E)
+![](https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Java&color=F24E1E)
 ![](https://img.shields.io/badge/Tools-NPM-informational?style=flat&logo=NPM&color=CB3837)
-![](https://img.shields.io/badge/Tools-Heroku-informational?style=flat&logo=Heroku&color=430098)
-![](https://img.shields.io/badge/Tools-Netlify-informational?style=flat&logo=netlify&color=00C7B7)
+![](https://img.shields.io/badge/Tools-Pycharm-informational?style=flat&logo=Python&color=430098)
+![](https://img.shields.io/badge/Tools-Clion-informational?style=flat&logo=Clion&color=00C7B7)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=Git&color=F05032)
 ![](https://img.shields.io/badge/Tools-GitHub-informational?style=flat&logo=GitHub&color=181717)
 
