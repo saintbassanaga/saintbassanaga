@@ -53,12 +53,11 @@ I love the entire process of developing creative software. I love the challenge 
 ## 📝 Latest Blog Posts
 
 ## 📈 GitHub Stats 
-<h3 align="left">
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=saintbassanaga&theme=dark)](https://github.com/saintbassanaga)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saintbassanaga&layout=compact&theme=dark)](https://github.com/saintbassanaga)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=saintbassanaga&theme=dark&background=000000)](https://git.io/streak-stats)
-</h3>
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=saintbassanaga.saintbassanaga)](https://github.com/saintbassanaga)
 
