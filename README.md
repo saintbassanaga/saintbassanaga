@@ -3,7 +3,7 @@ Hi there, I'm <a href="#" target="_blank" rel="noreferrer">Saint Bassanaga</a> �
 </h3>
 
 <h2 align="center">
-I'm a Full Stack Developer 💻, Content Creator ,  Embeded Software Programmer 👩‍💻 !
+I'm a Full Stack Developer 💻, Embeded Software Programmer 👩‍💻 !
 </h2> 
 
 I love the entire process of developing creative software. I love the challenge of finding caches and spending time to meet new people. Learning how people hide things and where people are likely to look.
