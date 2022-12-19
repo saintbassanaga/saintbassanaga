@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @saintbassanaga
-- 👀 I’m interested in Machine Learning ,Deap Coding and Data Science
+- 👀 I’m interested in Machine Learning ,Embeded System Ingineering , Full Stack Software Ingineering
 - 🌱 I’m currently learning C/C++,JavaScript , Python, etc
 - 💞️ I’m looking to collaborate on several project
 - 📫 How to reach me saintbassanaga01@gmail.com
