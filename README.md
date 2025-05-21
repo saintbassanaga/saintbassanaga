@@ -33,15 +33,44 @@ I’m passionate about coding and building impactful software solutions. Current
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics & Developer Profile
 
-[![Saint's GitHub Stats](https://github-readme-stats.vercel.app/api?username=saintbassanaga&show_icons=true&count_private=true&hide=prs&theme=radical)](https://github.com/saintbassanaga)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saintbassanaga&show_icons=true&count_private=true&hide=prs&include_all_commits=true&theme=radical&border_radius=12&custom_title=Saint%20Paul%20%7C%20GitHub%20Stats" alt="Saint's GitHub Stats" height="180">
+</p>
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=saintbassanaga&layout=compact&theme=radical)](https://github.com/saintbassanaga)
+---
 
-[![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=saintbassanaga&theme=radical)](https://github.com/saintbassanaga)
+### 🏆 GitHub Trophies
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=saintbassanaga&theme=radical)](https://github.com/saintbassanaga)
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saintbassanaga&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=3" alt="Saint's GitHub Trophies">
+</p>
+
+---
+
+### 💡 Most Used Languages
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saintbassanaga&layout=compact&langs_count=8&theme=radical&hide_border=true&title_color=FF6E96" alt="Top Languages Used" height="165">
+</p>
+
+---
+
+### ⏱ GitHub Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saintbassanaga&theme=radical&date_format=M%20j%5B%2C%20Y%5D&ring=F85C50&fire=F58529&sideLabels=FCA311&currStreakLabel=FFB319" alt="GitHub Streak" height="165">
+</p>
+
+---
+
+### 🧠 Activity Insights (Last 7 Days)
+
+<!-- Use GitHub profile activity graph - powered by GitHub Readme Activity Graph -->
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saintbassanaga&theme=radical&hide_border=true&area=true&custom_title=Weekly%20Contribution%20Graph" alt="Activity Graph">
+</p>
 
 ---
 
